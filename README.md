@@ -1,4 +1,5 @@
 ## Creator/Dev: tubakhxn
+<img width="2414" height="1587" alt="cross" src="https://github.com/user-attachments/assets/84884af5-b086-42a2-893f-d572b390976f" />
 
 # Cross-Asset Correlation Topology Engine
 
@@ -50,3 +51,4 @@ This project models financial markets as a dynamic correlation network and detec
 
 ---
 For questions or contributions, contact tubakhxn.
+
